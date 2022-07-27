@@ -1,0 +1,22 @@
+img {
+    width: 30%;
+    /*margin:1.6666%;*/
+    margin: calc(10%/6);
+}
+
+img:hover {
+    transform: rotateY(180deg);
+}
+
+nav {
+    text-transform: uppercase;
+    border-bottom: 2px solid lightgrey;
+    width: 30%;
+    margin-left: calc(10%/6) ;
+    font-size: 1.5ems;
+    padding: 1.5em 0;
+    font-family:raleway,sans-serif;
+   
+
+    
+}
