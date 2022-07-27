@@ -10,13 +10,10 @@ img:hover {
 
 nav {
     text-transform: uppercase;
-    border-bottom: 2px solid lightgrey;
+    border-bottom: 2px solid #f1f1f1;
     width: 30%;
-    margin-left: calc(10%/6) ;
-    font-size: 1.5ems;
-    padding: 1.5em 0;
-    font-family:raleway,sans-serif;
-   
-
-    
+    margin-left: calc(10%/6);
+    font-size: 1.5em;
+    padding: 1.2em 0;
+    font-family: "raleway", "sans-serif";
 }
